@@ -32,8 +32,17 @@ Contacts app is an app which shows the contacts stored in the database if a user
 <p>Open the Xampp Control Panel and start the apache and mysql and click on admin button beside mysql,it opens an admin panel</p>
 <p>Now open the settings.py file in the projects folder and goto line number 80 copy the name of the database and create a database with the same name in the admin panel</p>
 
+<h2>Installing django</h2>
+<p>Install Django by using the command</p>
+<code>pip install django</code>
+
+<h2>Install Mysqlclient</h2>
+<p>Install mysqlclient using the command</p>
+<code>pip install --only-binary :all: mysqlclient</code>
+
 <h2>Migrations</h2>
 <p>Now open the command prompt and enter the below command to migrate</p>
+<code>python manage.py makemigrations</code>
 <code>python manage.py migrate</code>
 
 <p>To run the program in local server use the following command</p>
