@@ -35,6 +35,6 @@ Contacts app is an app which shows the contacts stored in the database if a user
 
 <p>To run the program in local server use the following command</p>
 <code>python manage.py runserver</code>
-<p>Then goto </p><code>http://127.0.0.1:8000/</code><p>in your browser</p>
+<p>Then goto http://127.0.0.1:8000/ in your browser</p>
 
 <h1>===THANK YOU===</h1>
