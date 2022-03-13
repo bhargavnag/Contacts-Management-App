@@ -32,10 +32,9 @@ Contacts app is an app which shows the contacts stored in the database if a user
 <h2>Migrations</h2>
 <p>Now open the command prompt and enter the below command to migrate</p>
 <code>python manage.py migrate</code>
-<p>After migrating successfully enter the below command to run the server</p>
-<code>python manage.py runserver</code>
 
-<p>Now Open the server url as mentioned below</p>
-<code>http://127.0.0.1:8000/</code>
+<p>To run the program in local server use the following command</p>
+<code>python manage.py runserver</code>
+<p>Then goto </p><code>http://127.0.0.1:8000/</code><p>in your browser</p>
 
 <h1>===THANK YOU===</h1>
